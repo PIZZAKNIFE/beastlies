@@ -1,0 +1,9 @@
+Y:\yuka_mountain\netCore\beastlies\beastlies\bin\Debug\netcoreapp1.1\beastlies.deps.json
+Y:\yuka_mountain\netCore\beastlies\beastlies\bin\Debug\netcoreapp1.1\beastlies.runtimeconfig.json
+Y:\yuka_mountain\netCore\beastlies\beastlies\bin\Debug\netcoreapp1.1\beastlies.runtimeconfig.dev.json
+Y:\yuka_mountain\netCore\beastlies\beastlies\bin\Debug\netcoreapp1.1\beastlies.dll
+Y:\yuka_mountain\netCore\beastlies\beastlies\bin\Debug\netcoreapp1.1\beastlies.pdb
+Y:\yuka_mountain\netCore\beastlies\beastlies\obj\Debug\netcoreapp1.1\beastlies.AssemblyInfo.cs
+Y:\yuka_mountain\netCore\beastlies\beastlies\obj\Debug\netcoreapp1.1\beastlies.dll
+Y:\yuka_mountain\netCore\beastlies\beastlies\obj\Debug\netcoreapp1.1\beastlies.pdb
+Y:\yuka_mountain\netCore\beastlies\beastlies\obj\Debug\netcoreapp1.1\beastlies.csprojResolveAssemblyReference.cache
